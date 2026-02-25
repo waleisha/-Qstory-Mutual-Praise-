@@ -1,9 +1,9 @@
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-// 这些为基础变量 (已解除混淆，请将第一项的 API 地址替换为你自己的)
+// 这些为基础变量 (已请将第一项的 API 地址替换为你自己的)
 private final String[] S = {
-    "https://psrarp.cn/apix/praise.php?type=read&uin=",
+    "https://你的域名/praise.php?type=read&uin=",
     "开启/关闭云端互赞", 
     "togglePraise", 
     "云端互赞已关闭", 
